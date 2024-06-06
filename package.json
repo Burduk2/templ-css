@@ -1,0 +1,15 @@
+{
+  "name": "templcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.cjs",
+  "scripts": {
+    "start": "node src/main.cjs"
+  },
+  "keywords": [],
+  "author": "ua2",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^24.1.0"
+  }
+}
